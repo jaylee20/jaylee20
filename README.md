@@ -4,7 +4,7 @@ I'm Jay - a software engineer skilled in designing and building dynamic web appl
 
 <p>
   Thanks for swinging by and please feel free to connect on
-  <a href="https://linkedin.com/in/jay-lee-528aab89/">
+  <a href="https://www.linkedin.com/in/jayyounlee/">
      <image  
            src="https://img.shields.io/badge/-0A66C2?logo=LinkedIn&logoColor=white&style=plastic" 
            alt="LinkedIn Logo"
