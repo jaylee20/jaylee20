@@ -79,6 +79,10 @@ I'm Jay - a software engineer skilled in designing and building dynamic web appl
          src="https://img.shields.io/badge/-Redis-DC382D?logo=Redis&logoColor=white&style=for-the-badge"
          alt="Redis Logo"
   />
+</div>
+
+**Deployment and Testing 🧪**
+<div>
   <image 
          src="https://img.shields.io/badge/-Amazon%20AWS-232F3E?logo=Amazon AWS&logoColor=white&style=for-the-badge" 
          alt="Amazon AWS Logo"
@@ -91,10 +95,6 @@ I'm Jay - a software engineer skilled in designing and building dynamic web appl
          src="https://img.shields.io/badge/-Docker-2496ED?logo=Docker&logoColor=white&style=for-the-badge" 
          alt="Docker Logo"
   />
-</div>
-
-**Testing 🧪**
-<div>
   <image 
          src="https://img.shields.io/badge/-Mocha-8D6748?logo=Mocha&logoColor=white&style=for-the-badge" 
          alt="Mocha Logo"
@@ -125,6 +125,14 @@ I'm Jay - a software engineer skilled in designing and building dynamic web appl
   />
   <image 
          src="https://img.shields.io/badge/-Postman-FF6C37?logo=Postman&logoColor=white&style=for-the-badge" 
+         alt="Postman Logo"
+  />
+  <image 
+         src="https://img.shields.io/badge/-Babel-F9DC3E?logo=Babel&logoColor=white&style=for-the-badge" 
+         alt="Postman Logo"
+  />
+  <image 
+         src="https://img.shields.io/badge/-Webpack-8DD6F9?logo=Webpack&logoColor=white&style=for-the-badge" 
          alt="Postman Logo"
   />
 </div>
